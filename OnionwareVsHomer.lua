@@ -1,1 +1,1 @@
-local players = game:GetService("Players") local a = players.LocalPlayer a:Kick("U GOT BANNED FOR USING ONIONWARE!!! just kidding onionware down bc of being Detected so wait")
+game.Players.LocalPlayer:Kick("Onionware is currently offline. We are trying everything we can to get the script back online as quickly as possible! - naity")
